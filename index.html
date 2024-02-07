@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Map with Dynamic Basemap Switching and PMTiles Overlay</title>
+    <meta charset="utf-8" />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/maplibre-gl@4.0.0/dist/maplibre-gl.css"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="map"></div>
+    <div class="basemap-switcher">
+      <select onchange="changeBasemap(this.value)">
+        <option value="osm">OpenStreetMap</option>
+      </select>
+    </div>
+    <script
+      src="https://unpkg.com/maplibre-gl@4.0.0/dist/maplibre-gl.js"
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://unpkg.com/pmtiles@3.0.0-alpha.2/dist/index.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
