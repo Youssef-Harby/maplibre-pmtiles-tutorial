@@ -4,7 +4,7 @@
 
 This README accompanies a detailed tutorial that guides you through the process of visualizing over 14 million buildings across Egypt on a web map, without the need for a server. The tutorial picks up from the end of a previous guide on downloading the Egypt Buildings Dataset, where we prepared a 7 GB GeoPackage of the data.
 
-The tutorial is hosted on my website https://youssefharby.com/ and provides a comprehensive walkthrough from data conversion to visualization on a web map. [Read the full tutorial here.](https://youssefharby.com/Youtube+Videos/2024/Overture+Maps+Egypt's+Data+-+14%2B+Million+Buildings+on+a+Free+Web+Map)
+The tutorial is hosted on my website https://youssefharby.com/ and provides a comprehensive walkthrough from data conversion to visualization on a web map. [Read the full tutorial here.](https://youssefharby.com/Youtube+Videos/2024/14%2B+Million+Buildings+on+a+Free+Web+Map)
 
 ## Overview
 
@@ -31,7 +31,7 @@ By following the tutorial, you'll learn how to efficiently visualize large spati
 
 ## Resources
 
-- [Full Tutorial on the Blog](https://youssefharby.com/Youtube+Videos/2024/Overture+Maps+Egypt's+Data+-+14%2B+Million+Buildings+on+a+Free+Web+Map)
+- [Full Tutorial on the Blog](https://youssefharby.com/Youtube+Videos/2024/14%2B+Million+Buildings+on+a+Free+Web+Map)
 - [Source Code on GitHub](https://github.com/Youssef-Harby/maplibre-pmtiles-tutorial)
 - [PMTiles Viewer for Testing](https://protomaps.github.io/PMTiles/)
 - [Storj for Cloud Storage](https://www.storj.io/)
