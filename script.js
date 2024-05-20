@@ -3,7 +3,7 @@ let protocol = new pmtiles.Protocol();
 maplibregl.addProtocol("pmtiles", protocol.tile);
 
 // PMTiles URL
-let PMTILES_URL = "https://link.storjshare.io/raw/jxqoz44klwwclvwgvqkkp77pex3q/truemaps-public/public-datasets/overturemaps/2024-01-17-alpha.0/theme=buildings/egypt_buildings_vt.pmtiles";
+let PMTILES_URL = "https://link.storjshare.io/raw/jxnygeurd6uqh6jb3wrhz3w6kahq/truemaps-public/pmtiles/egypt_buildings_vt.pmtiles";
 const p = new pmtiles.PMTiles(PMTILES_URL);
 protocol.add(p);
 
